@@ -1,0 +1,35 @@
+#h1 {
+    text-align: center;
+    color: white;
+  }
+  body {
+    background-color: skyblue;
+  }
+
+  .opad {
+    background-color: rgb(193, 212, 212);
+    margin: 10px;
+
+  }
+  
+  .upad{
+    background-color: rgb(219, 199, 199);
+
+  }
+
+  #ulist {
+    background-color: rgb(201, 53, 53);
+    padding: 10px;
+    
+    
+  }
+  #h2{
+    color: red;
+    text-align: center;
+  }
+
+  #olist{
+    background-color: rgb(15, 105, 128);
+    padding: 10px;
+    
+  }

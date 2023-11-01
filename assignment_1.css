@@ -1,0 +1,33 @@
+img{
+    border-radius: 50%;
+    width: 200px;
+}
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#top{
+    display: flex;
+    background-color: rgb(177, 212, 201);
+    padding: 10px;
+}
+#image{
+    
+    
+    flex :1;
+}
+#head{
+    color:  rgb(45, 45, 95);
+    text-align:left;
+    flex:5;
+}
+#components{
+    display:flex;
+}
+#leftcomponents{
+    flex: 3;
+    background-color: rgb(159, 159, 186);
+}
+#rightcomponents{
+    color: rgb(28, 78, 80);
+    flex: 7;
+}
